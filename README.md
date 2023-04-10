@@ -19,7 +19,7 @@ This project is [MIT](License.md) licensed.
 
 <img src="https://user-images.githubusercontent.com/115910370/230912487-ad011946-2eb5-4185-bcbe-35ed1410514a.png" width="250px">
 
-### MOde with  IN INDIA.
+### Made with  IN INDIA.
 
 ----
 ### You can show some respct by starring ⭐ the ropository!

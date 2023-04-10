@@ -13,7 +13,7 @@ Simple OTP Generate App made with Flutter in India.
 
 # 🪪 License 
 copyright ©[Nirmal Madhani](https://github.com/nirmalmadhani2002).<br>
-This project is [MIT](License.md) licensed.
+This project is [MIT](License) licensed.
 
 <div  align="center">
 
